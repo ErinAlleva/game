@@ -7,7 +7,7 @@ around and have to "pollinate" all the flowers before the monsters get them and 
 ![alt text](screenshots/Capture.PNG "Start of the game")
 
 
-![alt text](screenshots/Capture2.PNG "The goal is to change all of the black circles to yellow by flying around and "Pollinating them")
+![alt text](screenshots/Capture2.PNG "The goal is to change all of the black circles to yellow by flying around and Pollinating them" )
 
 
 
